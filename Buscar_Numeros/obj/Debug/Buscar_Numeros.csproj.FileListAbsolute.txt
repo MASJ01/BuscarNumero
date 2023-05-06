@@ -1,0 +1,18 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\bin\Debug\Buscar_Numeros.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\bin\Debug\Buscar_Numeros.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\bin\Debug\Buscar_Numeros.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.Form1.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.Properties.Resources.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.csproj.GenerateResource.Cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\bin\Debug\Buscar_Numeros.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\bin\Debug\Buscar_Numeros.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\bin\Debug\Buscar_Numeros.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.csprojResolveAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.Form1.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.Properties.Resources.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Buscar_Numeros\Buscar_Numeros\obj\Debug\Buscar_Numeros.csproj.GenerateResource.Cache
